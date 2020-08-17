@@ -1,6 +1,6 @@
 # Time Series Forecasting
 
-<img src ='/Images/meme.jpg' >
+<img src ='/images/meme.jpg' >
 
 
 <h2>Purpose</h2>
@@ -54,7 +54,7 @@ The median list price per Zip Code varies hugely. In the areas of Malibu, Santam
 
 <br>
  <br>
- <img src ='Images/HousePrices.png'>
+ <img src ='images/HousePrices.png'>
 
 <br>  <br>
 <h4>Deliverables - Criteria for choosing Zip Codes</h4>
@@ -69,13 +69,13 @@ The median list price per Zip Code varies hugely. In the areas of Malibu, Santam
  <ul> ROI for past 3 years >10%</ul>
 </ol>
 
-<img src ='Images/Zipcodes.png'>
+<img src ='images/Zipcodes.png'>
 
 
 <br>   <br>
 <h4>Evolution of the House Prices in chosen Zip Codes</h4>
-<img src ='Images/Evolution.png'> 
-<img src ='Images/hp.png'> 
+<img src ='images/Evolution.png'> 
+<img src ='images/hp.png'> 
 
 
 <h2> Data Preparation</h2>
@@ -98,8 +98,8 @@ The Top Zip Codes are as follows:
 * 90001: 3-year ROI = 10.56%
 * 91768: 3-year ROI = 4.96%
 
-<img src ='Images/model1.png'>
-<img src ='Images/model2.png'>
+<img src ='images/model1.png'>
+<img src ='images/model2.png'>
 
 
 <h2>Future Work</h2>
