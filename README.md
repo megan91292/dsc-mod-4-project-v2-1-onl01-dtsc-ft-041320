@@ -69,7 +69,7 @@ The median list price per Zip Code varies hugely. In the areas of Malibu, Santam
  <ul> ROI for past 3 years >10%</ul>
 </ol>
 
-<img src ='images/Zipcodes.png'>
+<img src ='images/ZipCodes.png'>
 
 
 <br>   <br>
